@@ -26,3 +26,15 @@ header a{
     font-weight: 600;
     padding-left: 30px;
 }
+
+#header-img {
+    width: 125px; 
+    height: auto; 
+    display: block; 
+    margin: 0 0 0 0; 
+  }
+
+  a:hover {
+    color: #ff0000;
+  }
+  
