@@ -40,10 +40,11 @@ header a{
 
 
 #header-img {
-    width: 125px; 
-    height: auto; 
-    display: block; 
-    margin: 0 0 0 0; 
+  padding-top: 50px;
+  width: 200px; 
+  height: auto; 
+  display: block; 
+  margin: 0 auto; 
   }
 
 a:hover {
@@ -51,6 +52,9 @@ a:hover {
   }
   
 /*body*/
+main{
+  padding-top: 40px;
+}
 
   img {
     max-width: 100%;

@@ -30,7 +30,8 @@ header a{
 
 
 #header-img {
-    width: 125px; 
+    padding-top: 50px;
+    width: 200px; 
     height: auto; 
     display: block; 
     margin: 0 auto; 
