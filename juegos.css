@@ -17,25 +17,25 @@ body{
     color: #83d2e6;
 }
 
-a{
-    text-decoration: none;
-}
 
+a{
+  text-decoration: none;
+}
 header{
-    width: 1140px;
-    max-width: 80%;
-    margin: auto;
-    height: 50px;
-    display: flex;
-    align-items: center;
-    position: relative;
-    z-index: 100;
+  width: 1140px;
+  max-width: 80%;
+  margin: auto;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  z-index: 100;
+  position: fixed;
 }
 header a{
-    margin-right: 40px;
-    color: #FFF;
-    font-weight: 600;
-    padding-left: 30px;
+  margin-right: 40px;
+  color: #FFF;
+  font-weight: 600;
+  padding-left: 30px;
 }
 
 
@@ -45,7 +45,7 @@ header a{
   height: auto; 
   display: block; 
   margin: 0 auto; 
-  }
+}
 
 a:hover {
     color: #B80E65;
