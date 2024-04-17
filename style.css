@@ -13,9 +13,11 @@ a{
     text-decoration: none;
 }
 
+
 header{
-    padding-top: 50px;
-    width: 1140px;
+    backdrop-filter: blur(12.5px); /* Desenfoque del fondo */
+    background-color: rgba(255, 255, 255, 0.1);
+    width: 100%;
     max-width: 80%;
     margin: auto;
     height: 50px;
@@ -23,12 +25,17 @@ header{
     align-items: center;
     z-index: 100;
     position: fixed;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 400px;
 }
+
 header a{
     margin-right: 40px;
     color: #FFF;
     font-weight: 600;
     padding-left: 30px;
+    
 }
 
 
@@ -37,11 +44,14 @@ header a{
     width: 200px; 
     height: auto; 
     display: block; 
+    backdrop-filter: blur(25px); 
     margin: 0 auto; 
   }
   a:hover {
     color: #B80E65;
   }
+
+
   
 /* carousel */
 .carousel{
