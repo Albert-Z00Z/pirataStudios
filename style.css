@@ -44,7 +44,6 @@ header a{
     width: 200px; 
     height: auto; 
     display: block; 
-    backdrop-filter: blur(25px); 
     margin: 0 auto; 
   }
   a:hover {
