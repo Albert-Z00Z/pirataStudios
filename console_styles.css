@@ -73,7 +73,7 @@ header a{
 }
 
 .Video {
-    width: 100&;
+    width: auto;
     height: 700px;
     zoom: 1.47;
 }
