@@ -74,18 +74,17 @@ header a{
     margin-top: 20px;
 }
 
-.Video {
-    padding-top: 150px;
-    width: 100%;
-    height: auto;
-    overflow: hidden; /* Asegura que el contenido no se desborde */
-}
 
-.Video video {
-    width: 100%;
-    height: auto;
-}
-
+#how-it-works {
+    display: flex;
+    justify-content: center;
+  }
+  
+  #how-it-works > iframe {
+    padding-top: 175px;
+    max-width: 800px;
+    width: 150%;
+  }
 
 .ventajas {
     display: flex;
@@ -246,8 +245,5 @@ footer span {
     }
     header {
       padding-top: 50px;
-    }
-    video {
-        padding-top: 150px;
     }
   }
