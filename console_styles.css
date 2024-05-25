@@ -75,6 +75,7 @@ header a{
 }
 
 .Video {
+    padding-top: 150px;
     width: 100%;
     height: auto;
     overflow: hidden; /* Asegura que el contenido no se desborde */
