@@ -472,6 +472,9 @@ header a{
     margin: 0 auto;
     margin-bottom: 10px;
   }
+  header {
+    padding-top: 100px;
+  }
 }
 
 .pie {
