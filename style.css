@@ -475,6 +475,9 @@ header a{
   header {
     padding-top: 100px;
   }
+  .carousel {
+    padding-top: 150px
+  }
 }
 
 .pie {
