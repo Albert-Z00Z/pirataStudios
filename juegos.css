@@ -38,6 +38,14 @@ header a{
     
 }
 
+
+#header-img {
+    padding-top: 50px;
+    width: 200px; 
+    height: auto; 
+    display: block; 
+    margin: 0 auto; 
+  }
   a:hover {
     color: #B80E65;
   }
