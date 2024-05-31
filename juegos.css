@@ -25,7 +25,6 @@ header{
     align-items: center;
     z-index: 100;
     position: fixed;
-    padding-top: 50px;
     padding-bottom: 50px;
     padding-right: 400px;
 }
